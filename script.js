@@ -1,0 +1,5 @@
+const btn1 = document.getElementById('btn1');
+
+btn1.addEventListener('click',() =>{
+    alert('SEMOGA PANJANG UMUR SAYANG DAN SELALU LALU, BERBAKTI KEPADA ORANGTUAMU YA ❤, SELALU SAYANG SAMA AKU TERUS YA SAYANGKU, MOHON MAAF BELUM NGASIH APA-APA UNTUKMU😊')
+});
